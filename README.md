@@ -22,7 +22,7 @@ Point the QuickPod assistant service at this repository during deployment:
 
 ```bash
 KNOWLEDGE_BASE_BOOTSTRAP_MODE=git
-KNOWLEDGE_BASE_GIT_URL=https://github.com/<owner>/quickpod-knowledge-base.git
+KNOWLEDGE_BASE_GIT_URL=https://github.com/quickpod/quickpod-knowledge-base.git
 KNOWLEDGE_BASE_GIT_REF=main
 KNOWLEDGE_BASE_GIT_SUBDIR=
 KB_BOOTSTRAP_ON_START=true
